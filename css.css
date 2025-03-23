@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background-color: #8bc34a;
+    background-color: hwb(320 13% 0% / 0.2);
     padding: 20px;
     color: white;
 }
@@ -48,11 +48,11 @@ input, button {
 }
 
 button {
-    background-color: #8bc34a;
+    background-color: #c93fff4b;
     color: white;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #7cb342;
+    background-color: #e837ff3d;
 }
